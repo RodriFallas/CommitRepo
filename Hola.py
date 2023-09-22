@@ -1,2 +1,2 @@
-#Esto es un testt
+#Esto es un test
 print("Hola Test1")
