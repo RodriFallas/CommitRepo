@@ -1,2 +1,2 @@
-#Esto es un est
-Print("Hola Test")
+#Esto es un test
+print("Hola Test")
